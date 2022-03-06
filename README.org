@@ -1,0 +1,15 @@
+* React Coding Assessment for Koneksa
+
+** Installation
++ Run =npm install= or =yarn install= to satisfy project dependencies.
+
+** Running the project
++ Run =npm run dev= or =yarn dev= to start the dev server.
++ Open browser to http://localhost:3000
+
+** Running the test suite
++ To run the test suite, simply run =npm run test= or =yarn test=
+
+** Stack Notes
+- This project utilizes Vite (http://vitejs.dev) as it's dev server / build process. Vite offers lightning fast compilation and live reloading and has several advantages over harder-to-configure Webpack including compatiblity with Rollup plugins.
+- For form state-management, this project utilizes the Formik (https://formik.org/) library along with Yup (https://github.com/jquense/yup) for input validation.

@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import CssBaseline from "@mui/material/CssBaseline";
 import "@fontsource/roboto";
-import "./index.css";
 import App from "./App";
 
 ReactDOM.render(
